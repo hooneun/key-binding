@@ -13,3 +13,6 @@
 - 이전 버퍼로 이동: `nmap <leader>h :bprevious<CR>`
 - 현재 버퍼를 닫고 이전 버퍼로 이동 탭 닫기 단축키를 대체한다. `nmap <leader>bq :bp <BAR> bd #<CR>`
 - 모든 버퍼와 각 버퍼 상태 출력: `nmap <leader>bl :ls<CR>`
+
+## phpstorm
+- Tinker Plugin Open: `ctrl + Shift + T`
