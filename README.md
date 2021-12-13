@@ -16,3 +16,6 @@
 
 ## phpstorm
 - Tinker Plugin Open: `ctrl + Shift + T`
+
+## xcode
+- File Search: `⌘ + ⇧ + O`
